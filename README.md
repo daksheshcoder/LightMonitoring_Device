@@ -39,5 +39,5 @@ Telegram Notification Message.
 https://user-images.githubusercontent.com/76215048/160236938-7f2d69f2-7b79-4585-939e-08def3865804.mp4
 
 # Applications
-It can be remodeled to send the Alert Messages.Like in a pharmaceutical factory [to detech the sudden change in temperature], Banks [if the credit card is missused], To keep a Note of your watchlist Stocks and Many more.
+It can be remodeled to send the Alert Messages.Like in a pharmaceutical factory [to detech the sudden change in temperature], Banks [if the credit card is misused], To keep a Note of your watchlist Stocks and Many more.
 
