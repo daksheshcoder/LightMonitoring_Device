@@ -1,5 +1,5 @@
 # LightMonitoring_Device
-This is a Light Monitoring IoT Device which notifies you if anyone has Turned on/off the lights in the Room/House.
+This is a Light Monitoring IoT Device which notifies you with a Telegram message(can also sned e-mail and message) if anyone has Turned on/off the lights in the Room/House.
 
 This device is Built on the concepts of Machine-Learning and IoT.
 
