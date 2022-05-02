@@ -4,7 +4,7 @@ This is a Light Monitoring IoT Device which notifies you if anyone has Turned on
 This device is Built on the concepts of Machine-Learning and IoT.
 
 Done with using BoltIoT.  
-# Harware used
+# Hardware used
   1)Bolt IoT Wifi Module
   2)LDR senor
   3)10k ohms carbon resistor
